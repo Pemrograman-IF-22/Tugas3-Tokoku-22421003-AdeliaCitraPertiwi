@@ -14,6 +14,5 @@ factory Rating.fromJson(Map<String, dynamic> json){
       count: json['count'],
     );
   }
-
 }
 
